@@ -1,4 +1,5 @@
 # Real-Time-Bus-Tracker
+
 <img src="BusMap.jpg" alt="Real-Time Bus Tracker">
 
 **Descripción:** Este proyecto refleja un mapa del área de Boston/Cambridge y una de las rutas de autobús que está disponible en el área. El proyecto inicial era agregar un marcador al mapa. Ahora hice ese mercado amarillo (color del autobús), agregué la ruta como magenta y codifiqué con colores cada parada de autobús en el camino por el que pasará el marcador amarillo.
